@@ -138,3 +138,6 @@ The JOIN result from SQL matches the Pandas merge output.
 
 ## Update
 Added SQL query documentation.
+
+## Update 2
+Added Pandas merge comparison.
