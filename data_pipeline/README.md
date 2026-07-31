@@ -135,3 +135,6 @@ The JOIN result from SQL matches the Pandas merge output.
 - Used normalized database design with two tables.
 - Used Pandas for data analysis.
 - Used SQL JOIN and Pandas Merge to compare outputs.
+
+## Update
+Added SQL query documentation.
