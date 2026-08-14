@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+langchain
+chromadb
+sentence-transformers
+python-dotenv
+pydantic
+requests
